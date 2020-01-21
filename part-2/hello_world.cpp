@@ -1,11 +1,11 @@
-// Oscar Mayer
-// CPSC 121-99
-// oscar.mayer@csu.fullerton.edu
+// Alexander Garcia
+// CPSC 121-02
+// alexgarcia98@csu.fullerton.edu
 
 #include <iostream>
 using namespace std;
 
 int main(int argc, char *argv[]){
-  cout << "Hello world!" << endl;
+  cout << "Hello world, this is cosmo!" << endl;
   return 0;
 }
